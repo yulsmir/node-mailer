@@ -14,6 +14,6 @@
 3. Run ```npm install``` to install packages.
 4. Run ```npm run start``` to start project.
 5. Go to ```localhost:3000``` to check app.
-6. Press ```send email``` link to send email and check response.
+6. Press ```send email``` link to send email and check response. http://localhost:3000/send is going to display json with a response.
 7. Go back to https://ethereal.email/messages to check that message is successfully sent.
 
